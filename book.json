@@ -1,3 +1,7 @@
+ {
+   "plugins": ["-highlight", "prism", "prism-themes"]
+ }
+
 {
     "plugins": [ "theme-api" ],
     "pluginsConfig": {
@@ -18,3 +22,4 @@
     }
     
 }
+
