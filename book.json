@@ -13,6 +13,15 @@
                     "name": "Go"
                 }
             ]
+            
+        }
+    }
+}
+{
+    "plugins": [ "github" ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/your/repo"
         }
     }
 }
