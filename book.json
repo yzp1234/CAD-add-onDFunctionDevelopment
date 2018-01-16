@@ -2,24 +2,5 @@
    "plugins": ["-highlight", "prism", "prism-themes"]
  }
 
-{
-    "plugins": [ "theme-api" ],
-    "pluginsConfig": {
-        "theme-api": {
-            "languages": [
-                {
-                    "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
-                }
-            ]
-            
-        }
-    }
-    
-}
+
 
