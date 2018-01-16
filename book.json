@@ -1,6 +1,11 @@
  {
-   "plugins": ["-highlight", "prism", "prism-themes"]
-
+   "plugins": ["-highlight", "prism", "prism-themes"],
+   "plugins": [ "github" ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/amorynan/CAD-add-onDFunctionDevelopment/"
+        }
+    }
  }
 
 
