@@ -1,5 +1,12 @@
  {
    "plugins": ["-highlight", "prism", "prism-themes"]
+   "pluginsConfig": {  
+     "prism": {
+     "css": [
+       "prism-themes/themes/prism-duotone-dark.css"
+         ]
+       }
+   }
  }
 
 
