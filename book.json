@@ -1,5 +1,6 @@
  {
    "plugins": ["-highlight", "prism", "prism-themes"], 
+    "plugins" : ["advanced-emoji"],
 
    "plugins": [ "github" ],
     "pluginsConfig": {
