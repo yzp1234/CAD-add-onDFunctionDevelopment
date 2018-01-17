@@ -1,22 +1,18 @@
  {
    "plugins": ["-highlight", "prism", "prism-themes"], 
     "plugins" : ["advanced-emoji"],
-
-   "plugins": [ "github" ],
+    "plugins": [ "github" ],
+    "plugins": [ "chart" ],
+    
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/amorynan/CAD-add-onDFunctionDevelopment/"
         }
     }
-    
- }
-{
-    "plugins": ["theme-api"],
-    "plugins": ["theme-api"],
     "pluginsConfig": {
-        "theme-api": {
-            "theme": "dark"
+        "chart": {
+            "type": "c3"
         }
     }
-}
+ }
 
