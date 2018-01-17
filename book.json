@@ -2,6 +2,7 @@
     "title" : "cad add-on function's development",
     "author" : "amory wang",
     "description" : "one to one development for jindu furniture company",
+    "language" : "zh-hans",
     "plugins": ["disqus"],
     "pluginsConfig": {
     "disqus": {
