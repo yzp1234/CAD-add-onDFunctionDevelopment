@@ -9,10 +9,6 @@
             "url": "https://github.com/amorynan/CAD-add-onDFunctionDevelopment/"
         }
     }
-    "pluginsConfig": {
-        "chart": {
-            "type": "c3"
-        }
-    }
+    
  }
 
