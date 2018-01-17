@@ -3,6 +3,11 @@
     "author" : "amory wang",
     "description" : "one to one development for jindu furniture company",
     "language" : "zh-hans",
+    "links" : {
+        "sidebar" : {
+            "Home" : "https://github.com/amorynan/CAD-add-onDFunctionDeveloment/"
+        }
+    },
     "plugins": ["disqus"],
     "pluginsConfig": {
     "disqus": {
