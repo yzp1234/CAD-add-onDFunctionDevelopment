@@ -14,7 +14,13 @@
             "Home": "https://github.com/amorynan/"
         }
     },
-   "plugins": ["-highlight", "prism", "prism-themes"，"advanced-emoji"，"github"，"chart"],
+    
+   "plugins": ["-highlight", 
+               "prism", 
+               "prism-themes",
+               "advanced-emoji",
+               "github",
+               "chart"],
     
     "pluginsConfig": {
         "github": {
