@@ -1,5 +1,10 @@
 {
     "title" : "cad add-on function's development"
     "author" : "amory wang"
-    "plugins": []
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+    "disqus": {
+        "shortName": "gitbookuse"
+        }
+    }
 }
