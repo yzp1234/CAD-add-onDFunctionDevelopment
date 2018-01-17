@@ -1,6 +1,6 @@
 {
-    "title" : "cad add-on function's development"
-    "author" : "amory wang"
+    "title" : "cad add-on function's development",
+    "author" : "amory wang",
     "plugins": ["disqus"],
     "pluginsConfig": {
     "disqus": {
