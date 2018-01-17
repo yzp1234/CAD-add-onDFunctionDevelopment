@@ -12,7 +12,7 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "gitbookuse"
-            }
+            },
         "github": {
             "url": "https://github.com/amorynan/CAD-add-onDFunctionDevelopment"
         }
