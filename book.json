@@ -8,7 +8,7 @@
             "Home" : "https://github.com/amorynan/CAD-add-onDFunctionDeveloment/"
         }
     },
-    "plugins": ["disqus"],
+    "plugins": ["disqus","advanced-emoji"],
     "pluginsConfig": {
     "disqus": {
         "shortName": "gitbookuse"
