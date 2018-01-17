@@ -6,6 +6,7 @@
             "url": "https://github.com/amorynan/CAD-add-onDFunctionDevelopment/"
         }
     }
+    "plugins" : ["advanced-emoji"]
  }
 
 
