@@ -16,10 +16,6 @@
         "github": {
             "url": "https://github.com/amorynan/CAD-add-onDFunctionDevelopment"
         },
-        "prism": {
-            "css": {
-                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
-            }
-        }
+       
     }
 }
