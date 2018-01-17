@@ -8,6 +8,9 @@
         "github": {
             "url": "https://github.com/amorynan/CAD-add-onDFunctionDevelopment/"
         }
+        "chart": {
+            "type": "c3"
+        }
     }
     
  }
