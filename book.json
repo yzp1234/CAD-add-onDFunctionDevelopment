@@ -1,16 +1,33 @@
  {
-   "plugins": ["-highlight", "prism", "prism-themes"], 
-    "plugins" : ["advanced-emoji"],
-    "plugins": [ "github" ],
-    "plugins": [ "chart" ],
+     "title": "CAD add-on function's development",
+    "description": "one to one development",
+    "author": "amory WANG",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "structure": {
+        "readme": "introduction.md"
+    },
+    "links": {
+        "sidebar": {
+            "Home": "https://github.com/amorynan/"
+        }
+    },
+   "plugins": ["-highlight", "prism", "prism-themes"，"advanced-emoji"，"github"，"chart"],
     
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/amorynan/CAD-add-onDFunctionDevelopment/"
+            "url": "https://github.com/amorynan/CAD-add-onDFunctionDevelopment"
         }
         "chart": {
             "type": "c3"
         }
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+            ]
+        },
     }
     
  }
