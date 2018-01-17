@@ -1,10 +1,4 @@
  {
-   "plugins": ["theme-api"],
-   "pluginsConfig": {
-        "theme-api": {
-            "theme": "dark"
-        }
-    }
    "plugins": ["-highlight", "prism", "prism-themes"], 
     "plugins" : ["advanced-emoji"],
 
@@ -16,6 +10,13 @@
     }
     
  }
-
-
+{
+    "plugins": ["theme-api"],
+    "plugins": ["theme-api"],
+    "pluginsConfig": {
+        "theme-api": {
+            "theme": "dark"
+        }
+    }
+}
 
